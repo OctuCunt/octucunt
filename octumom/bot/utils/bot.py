@@ -20,8 +20,6 @@ class OctuCunt(commands.AutoShardedBot):
     INITIAL_EXTENSIONS: ClassVar[List[str]] = [
         "ext.events",
         "ext.error",
-        "ext.fun",
-        "ext.help",
         "ext.moderation",
         "ext.owner",
         "ext.utility",
